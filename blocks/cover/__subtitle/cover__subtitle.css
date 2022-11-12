@@ -7,5 +7,10 @@
   font-size: 18px;
   line-height: 22px;
   color: #fff;
-  z-index: 2;
+  z-index: 3;
+}
+
+.cover__subtitle:hover ~ .cover__overlay {
+  background-color: #2a2c2f;
+  opacity: 0.8;
 }
