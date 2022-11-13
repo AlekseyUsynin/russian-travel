@@ -3,7 +3,7 @@
   text-align: right;
   font-weight: 400;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   color: #fff;
 }
 
@@ -12,6 +12,6 @@
     padding-top: 16px;
     text-align: left;
     font-size: 14px;
-    line-height: 14px;
+    line-height: 1;
   }
 }
