@@ -7,12 +7,6 @@
   font-size: 18px;
   line-height: 1.22;
   color: #fff;
-  z-index: 3;
-}
-
-.cover__subtitle:hover ~ .cover__overlay {
-  background-color: #2a2c2f;
-  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
@@ -20,6 +14,6 @@
     padding-top: 16px;
     font-size: 14px;
     line-height: 1.14;
-    max-width: 260px;
+    max-width: 288px;
   }
 }

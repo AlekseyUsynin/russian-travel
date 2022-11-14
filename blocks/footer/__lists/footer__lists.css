@@ -1,0 +1,15 @@
+.footer__lists {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(5, min-content);
+  gap: 18px;
+}
+
+@media screen and (max-width: 737px) {
+  .footer__lists {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(5, max-content);
+    gap: 32px;
+  }
+}
