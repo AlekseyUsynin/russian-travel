@@ -62,8 +62,6 @@
 
 @import url("../blocks/footer/footer.css");
 
-@import url("../blocks/footer/__content/footer__content.css");
-
 @import url("../blocks/footer/__lists/footer__lists.css");
 
 @import url("../blocks/footer/__list-cell/footer__list-cell.css");
